@@ -7,7 +7,7 @@ from blog.forms import  UserForm
 
 
 @app.route("/")
-def home():
+def Index():
   return render_template('index.html')
 
 @app.route("/about")
