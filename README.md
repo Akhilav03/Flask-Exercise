@@ -1,1 +1,1 @@
-Student Number: c22051675
+This repository contains the implementation of a Flask-based exercise completed as part of my university coursework. The exercise focuses on applying concepts learned in the course related to web development using the Flask framework.
